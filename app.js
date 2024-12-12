@@ -10,7 +10,7 @@ if (tg.MainButton.isVisible) {
    tg.MainButton.hide();
     }
 else {
-    tg.MainButton.setText("Вывести информацию по овену!!!!");
+    tg.MainButton.setText("Вывести информацию по овену!!");
      item = "1";
      tg.MainButton.show();
      }
