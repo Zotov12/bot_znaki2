@@ -20,7 +20,7 @@ if (tg.MainButton.isVisible) {
     tg.MainButton.hide();
     }
 else {
-     tg.MainButton.setText("Вывести информацию по тельцу");
+     tg.MainButton.setText("Вывести информацию по тельцу??");
      item = "2";
      tg.MainButton.show();
      }
